@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/community.hrobot/commit/c6406c3c2354849c3480c9949c1a22aef0a0e59f",
       "git:hexsha": "c6406c3c2354849c3480c9949c1a22aef0a0e59f",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T14:07:37.114916+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ansible-collections/community.hrobot/commit/8459d8c21fc007a40b86b9a5753940cea02d2d8b",
